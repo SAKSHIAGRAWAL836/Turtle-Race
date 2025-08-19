@@ -33,7 +33,7 @@ See the game in action!
 
 1. **Clone the repo:**  
    ```bash
-   git clone https://github.com/your-username/turtle-race-game.git
+   git clone https://github.com/SAKSHIAGRAWAL836/Turtle-Race/blob/main/main.py
    ```
 2. **Run the game:**
    ```bash
